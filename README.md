@@ -1,4 +1,4 @@
-👋 Hi, I’m [merryyellow](https://github.com/merryyellow)  
+👋 Hi, I’m @merryyellow
 🌱 I make games and tools  
 📫 [meryel.netlify.app](https://meryel.netlify.app)
 
